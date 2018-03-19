@@ -1,4 +1,4 @@
-#Connect four
+# Connect four
 It's simple implementation of Connect Four game.
 
 There are two version of game implemented: Connect Four and Connect Five.
